@@ -5,3 +5,5 @@ recently i read the guide hello world for learn how to use github master  and br
 for load test.
 
 Coba edit branch yang sudah ada
+
+tes2
