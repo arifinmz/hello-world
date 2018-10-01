@@ -11,3 +11,6 @@ tes2
 cek 123 latihan commit lagi dari vstudio
 
 cek push git tanpa git add.
+
+latihan sekali lagi untuk commit
+++++++++++++++++++++++++++++++++
