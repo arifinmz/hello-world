@@ -9,3 +9,5 @@ Coba edit branch yang sudah ada
 tes2
 
 cek 123 latihan commit lagi dari vstudio
+
+cek push git tanpa git add.
